@@ -1,0 +1,1 @@
+netsh wlan add profile filename="$PSScriptRoot\Wi-Fi-emerald.xml"
